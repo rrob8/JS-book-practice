@@ -7,4 +7,5 @@ msg += '<b> domain: </b>' + document.domain + '<br />';
 var el= document.getElementById('footer');
 el.innerHTML= msg;
 
-//another flaw, domain does not print to the page
+/*JIMMYJIMMYJIMMYJIMMYJIMMYJIMMYJIMMY
+another flaw, domain does not print to the page , see page 126, properties of the DOM */
